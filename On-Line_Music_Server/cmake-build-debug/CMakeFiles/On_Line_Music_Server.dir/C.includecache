@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/On-Line_Music_Server/Music_Server.h
+
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/On-Line_Music_Server/Music_Server_main.c
+stdio.h
+-
+stdlib.h
+-
+Music_Server.h
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/On-Line_Music_Server/Music_Server.h
+
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/On-Line_Music_Server/Server_Functions.c
+stdio.h
+-
+stdlib.h
+-
+Music_Server.h
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/On-Line_Music_Server/Music_Server.h
+
